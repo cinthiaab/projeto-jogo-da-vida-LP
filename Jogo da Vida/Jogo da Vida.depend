@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1667762397 source:c:\users\cinth\faculdade\jogo da vida\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"model.h"
+	"assinaturas.h"
+	<time.h>
+
+1667762351 c:\users\cinth\faculdade\jogo da vida\model.h
+
+1667762427 c:\users\cinth\faculdade\jogo da vida\assinaturas.h
+
+1667762186 source:c:\users\cinth\faculdade\jogo da vida\main.c
+	<stdio.h>
+	<stdlib.h>
+	"model.h"
+	"assinaturas.h"
+	<time.h>
+
+1667762305 source:c:\users\cinth\faculdade\jogo da vida\model.c
+	<stdio.h>
+	<stdlib.h>
+	"model.h"
+	"assinaturas.h"
+	<time.h>
+
+1667762272 source:c:\users\cinth\faculdade\jogo da vida\view.c
+	<stdio.h>
+	<stdlib.h>
+	"model.h"
+	"assinaturas.h"
+	<time.h>
+
